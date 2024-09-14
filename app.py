@@ -176,7 +176,7 @@ body {
 
 # Define the interface with a custom layout
 with gr.Blocks(css=custom_css) as demo:
-    gr.Markdown("<h1 id='title'>🌟 Personalized AI Chatbot 🌟</h1>")
+    gr.Markdown("<h1 id='title'>🌟 Ask me anything! 🌟</h1>")
     
     with gr.Row():
         system_message = gr.Textbox(value="You are a friendly Chatbot.", label="System message", interactive=True)
