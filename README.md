@@ -1,12 +1,1 @@
----
-title: New Space
-emoji: 💻
-colorFrom: yellow
-colorTo: purple
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+1. I added a new file to check if my workflow is running as expected
